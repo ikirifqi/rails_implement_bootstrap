@@ -1,1 +1,1 @@
-# rails_implement_bootstrap
+3 - Implement Bootstrap with Ruby on Rails
